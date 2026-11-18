@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Urban College Backpack",
+        "category": "Backpacks",
+        "price": 1499,
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500"
+    },
+    {
+        "id": 2,
+        "name": "Premium Laptop Bag",
+        "category": "Laptop Bags",
+        "price": 1899,
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500"
+    },
+    {
+        "id": 3,
+        "name": "Casual College Backpack",
+        "category": "Backpacks",
+        "price": 999,
+        "image": "https://images.unsplash.com/photo-1622560480654-d96214fdc887?w=500"
+    },
+    {
+        "id": 4,
+        "name": "Minimal Student Bag",
+        "category": "Casual Bags",
+        "price": 1199,
+        "image": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=500"
+    },
+    {
+        "id": 5,
+        "name": "Travel College Backpack",
+        "category": "Backpacks",
+        "price": 1699,
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500"
+    },
+    {
+        "id": 6,
+        "name": "Classic Laptop Backpack",
+        "category": "Laptop Bags",
+        "price": 2199,
+        "image": "https://images.unsplash.com/photo-1622560480654-d96214fdc887?w=500"
+    },
+    {
+        "id": 7,
+        "name": "Everyday Tote Bag",
+        "category": "Casual Bags",
+        "price": 899,
+        "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=500"
+    },
+    {
+        "id": 8,
+        "name": "Sporty Student Backpack",
+        "category": "Backpacks",
+        "price": 1299,
+        "image": "https://images.unsplash.com/photo-1491637639811-60e2756cc1c7?w=500"
+    }
+]
